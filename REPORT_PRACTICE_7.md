@@ -59,8 +59,8 @@ import os; os.system('rm -rf /')
 
 ### 4.2. Pull Request
 
-Pull Request создается из `feature/practice-7` в `develop`.
+Pull Request: https://github.com/denzer14/lab-onboarding-Zherdev/pull/1
 
 ### 4.3. Скриншот зеленого статуса проверки
 
-Скриншот зеленого статуса Checks отображается в интерфейсе Pull Request после успешного выполнения job `lint`.
+Проверка GitHub Actions: **Passed** (зелёный статус job `lint`) в разделе Checks Pull Request.
